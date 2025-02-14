@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Film Genres Improv</title>
+  <style>
+    body {
+      background: #222;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    #display-area {
+      background: #333;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 600px;
+      margin: 50px auto 20px;
+    }
+    .genre-name {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .genre-description {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+      color: #ccc;
+    }
+    .trope-list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      margin: 20px 0;
+    }
+    .trope-block {
+      background-color: #444;
+      padding: 10px;
+      border-radius: 5px;
+      width: 100%;
+      max-width: 500px;
+      box-sizing: border-box;
+      text-align: left;
+    }
+    .button-group {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    button {
+      background: #444;
+      border: none;
+      padding: 10px 16px;
+      color: #fff;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #666;
+    }
+    #settingsBtn {
+      margin-top: 40px;
+    }
+    #settingsPanel {
+      display: none;
+      background: #2c2c2c;
+      border: 1px solid #444;
+      padding: 15px;
+      border-radius: 4px;
+      max-width: 400px;
+      margin: 20px auto;
+    }
+    @media (max-width: 600px) {
+      .trope-block {
+        width: 90%;
+      }
+      #display-area {
+        width: 95%;
+      }
+      #settingsPanel {
+        width: 95%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="display-area">
+    <div class="genre-name" id="genreName">—</div>
+    <div class="genre-description" id="genreDescription">—</div>
+    <div class="trope-list" id="tropeList"></div>
+  </div>
+
+  <div class="button-group">
+    <button id="shuffleGenreBtn">Shuffle Genre</button>
+    <button id="shuffleTropesBtn">Shuffle Tropes</button>
+  </div>
+
+  <button id="settingsBtn">Show Settings</button>
+  <div id="settingsPanel">
+    <h2 id="settingsHeader">Settings</h2>
+
+    <!-- Language selection -->
+    <div>
+      <label id="languageLabel">Language:</label><br/>
+      <label>
+        <input type="radio" name="lang" value="et" />
+        <span id="langEstonianLabel">Eesti</span>
+      </label><br/>
+      <label>
+        <input type="radio" name="lang" value="en" />
+        <span id="langEnglishLabel">English</span>
+      </label>
+    </div>
+
+    <!-- Trope limit selection -->
+    <div style="margin-top:10px;">
+      <label id="tropeLimitLabel">Tropes per genre:</label><br/>
+      <label>
+        <input type="radio" name="tropeLimit" value="2" />
+        <span id="show2Label">Show 2</span>
+      </label><br/>
+      <label>
+        <input type="radio" name="tropeLimit" value="all" />
+        <span id="showAllLabel">Show All</span>
+      </label>
+    </div>
+
+    <button id="saveSettingsBtn" style="margin-top:10px;">Save Settings</button>
+  </div>
+
+  <!-- Data and main logic -->
+  <script src="genres_et.js"></script>
+  <script src="genres_en.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
