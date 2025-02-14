@@ -4,6 +4,10 @@ A small web app for randomly generating a film or TV **genre** along with a rand
 
 **Disclaimer**: This project was mostly written by ChatGPT.
 
+
+
+Access the live app here: [Film Genres Improv](https://ra13s.github.io/improv-genres-tropes/)
+
 ---
 
 ## Table of Contents
@@ -65,8 +69,10 @@ There is **no build process**—the app is self-contained in HTML, CSS, and Java
 ### Adding or Editing Genres & Tropes
 
 - The app references two JavaScript files:
+  
   - `genres_et.js` (for Estonian)
   - `genres_en.js` (for English)
+
 - Each file defines an array of `genre` objects, each with:
   
   ```js
