@@ -848,5 +848,53 @@ window.genresDataEn = [
       "Henchman with distinctive physical characteristic or weapon",
       "Villain's lair exploding in spectacular fashion at climax"
     ]
+  },
+  {
+    name: "Classic British Detective (Poirot/Holmes)",
+    description: "Meticulous detective stories featuring eccentric investigators, drawing room revelations, and carefully constructed mysteries in upper-class settings.",
+    tropes: [
+      "Detective announcing their 'little gray cells' or 'elementary' catchphrase",
+      "Gathering all suspects in drawing room for final revelation",
+      "Bumbling but loyal assistant asking obvious questions",
+      "Precise examination of seemingly insignificant details",
+      "Upper-class witnesses being offended by questioning",
+      "Murder at country house party or exclusive club",
+      "Detective's unique quirks (mustache grooming, violin playing)",
+      "Dramatic reenactment of how crime was committed",
+      "Servants providing crucial background information",
+      "Eccentric foreigner observations about British customs"
+    ]
+  },
+  {
+    name: "British Period Romance",
+    description: "Romantic dramas set in historical Britain, featuring strict social etiquette, repressed emotions, and complex class dynamics.",
+    tropes: [
+      "Meaningful glances across crowded ballrooms",
+      "Scandal of improper introductions between gentlemen and ladies",
+      "Walking and talking scenes with parasols and top hats",
+      "Gossip shared over tea with precise cup handling",
+      "Pride preventing characters from expressing true feelings",
+      "Class differences threatening potential romance",
+      "Piano performance at evening social gathering",
+      "Proper yet loaded conversation with hidden meanings",
+      "Shocking breach of social etiquette causing gasps",
+      "Rain-soaked declaration of love"
+    ]
+  },
+  {
+    name: "British Manor Drama",
+    description: "Upstairs-downstairs dynamics in grand estates, exploring relationships between aristocracy and servants against historical backdrop.",
+    tropes: [
+      "Servants gossiping while polishing silver",
+      "Butler announcing unexpected visitors with gravity",
+      "Lady of house managing domestic crises with dignity",
+      "Below-stairs romance conflicting with duties",
+      "Family scandal threatening estate's future",
+      "Formal dinner service with precise etiquette",
+      "Cook tyrannically ruling kitchen domain",
+      "Class boundaries being tested by changing times",
+      "New technology threatening traditional ways",
+      "Complex hierarchy among servant staff"
+    ]
   }  
 ];

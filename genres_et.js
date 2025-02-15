@@ -952,5 +952,53 @@ window.genresDataEt = [
       "Käsilane eristuva füüsilise omaduse või relvaga",
       "Kurjami peakorter plahvatab kulminatsioonil hiilgaval moel"
     ]
+  },
+  {
+    name: "Klassikaline Briti Detektiiv (Poirot/Holmes)",
+    description: "Põhjalikud detektiivilood ekstsentriliste uurijatega, salongipaljastavate stseenidega ja hoolikalt konstrueeritud müsteeriumitega kõrgklassi keskkonnas.",
+    tropes: [
+      "Detektiiv mainib oma 'väikeseid hallid ajurakke' või 'elementaarset' lööklausena",
+      "Kõigi kahtlusaluste kokkukutsumine saali lõplikuks paljastuseks",
+      "Kohmakas kuid ustav abiline esitab ilmselgeid küsimusi",
+      "Näiliselt tähtsusetute detailide täpne uurimine",
+      "Kõrgklassi tunnistajad on ülekuulamisest solvunud",
+      "Mõrv mõisa peol või eksklusiivses klubis",
+      "Detektiivi eripärased veidrused (vuntside sättimine, viiulimäng)",
+      "Kuriteo sooritamise dramaatiline taaslavastus",
+      "Teenijad jagavad olulist taustinfot",
+      "Ekstsentrilise välismaalase tähelepanekud Briti kommete kohta"
+    ]
+  },
+  {
+    name: "Briti Ajalooline Romantika",
+    description: "Romantilised draamad ajaloolises Britannias, kus on ranged käitumisnormid, alla surutud emotsioonid ja keerulised klassisuhted.",
+    tropes: [
+      "Tähendusrikkad pilgud üle rahvast täis ballisaali",
+      "Skandaal härrade ja daamide kohatust tutvumisest",
+      "Jalutus- ja vestlusstseenid päevavarjude ja silindritega",
+      "Klatš teejoomisel koos täpsete tassiliigutustega",
+      "Uhkus takistab tegelastel tõelisi tundeid väljendamast",
+      "Klassierinevused ohustavad võimalikku romantikat",
+      "Klaverimäng õhtusel seltskondlikul kogunemisel",
+      "Viisakas, kuid tähendusrikas vestlus varjatud sõnumitega",
+      "Šokeeriv käitumisnormide rikkumine tekitab ohkeid",
+      "Vihmast läbiligunenud armastuse tunnistamine"
+    ]
+  },
+  {
+    name: "Briti Mõisadraama",
+    description: "Härrasrahva ja teenijate dünaamika suursugustes mõisates, uurides aristokraatia ja teenijate vahelisi suhteid ajaloolisel taustal.",
+    tropes: [
+      "Teenijad klatšivad hõbedat poleerides",
+      "Majordoom kuulutab tähtsalt ootamatuid külalisi",
+      "Majaproua lahendab koduseid kriise väärikusega",
+      "Teenijate romanss satub vastuollu kohustustega",
+      "Perekonnaskandaal ohustab mõisa tulevikku",
+      "Formaalne õhtusöögiteenindus täpse etiketiga",
+      "Kokk valitseb türanlikult köögiala",
+      "Muutuvad ajad panevad klassipiire proovile",
+      "Uus tehnoloogia ohustab traditsioonilisi viise",
+      "Keeruline hierarhia teenijaskonna seas"
+    ]
   }  
 ];
