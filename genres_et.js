@@ -66,7 +66,7 @@ window.genresDataEt = [
     description:
       "Sõjaolukordade realistlik kujutamine, mis uurib konflikti mõju inimestele ja ühiskonnale.",
     tropes: [
-      "Noored sõdurid kaotavad süütuse lahinguväljal",
+      "Noored sõdurid jätavad lahinguväljal hüvasti lapsepõlvega",
       "Kirjad koju armastatutele",
       "Väeosa kui paljude erinevate iseloomude sulatus",
       "Moraalselt keerulised otsused kriisiolukorras",
