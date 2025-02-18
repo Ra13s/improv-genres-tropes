@@ -1,15 +1,14 @@
 window.genresDataEt = [
   {
     name: "Film Noir",
-    description:
-      "Sünged kriminaallood, kus moraalselt kahemõttelised tegelased tegutsevad vihmases linnamaastikus ja kus on karmi eradetektiivi sisemonoloogid.",
+    description: "Sünged kriminaallood, kus moraalselt kahemõttelised tegelased tegutsevad vihmases linnamaastikus ja kus on karmi eradetektiivi sisemonoloogid.",
     tropes: [
       "Femme fatale, kes meelitab peategelase ohtlikku olukorda",
       "Küünilise sisemonoloogiga eradetektiiv",
       "Vihmased tänavad ja neoontulede peegeldused",
       "Keeruline vandenõu, mis paljastub järk-järgult",
       "Moraalselt kahtlased politsei- või riigiametnikud",
-      "Suitsusuine baar kui võtmesündmuste toimumispaik",
+      "Suitsuga täidetud baar kui võtmekoht",
       "Traagiline lõpp, kus keegi ei võida tegelikult",
       "Varjude ja valguse kontrastne mäng",
       "Peategelase saatuslik viga, mis viib allakäiguni",
@@ -23,14 +22,13 @@ window.genresDataEt = [
       "Joomise stseenid keerukate metafooridega",
       "Tagaajamisstseenid, mida kirjeldatakse ainult monoloogis",
       "Varjatud tõendite dramaatiline paljastamine",
-      "Lõplik vastasseis poeetilise õiglusega"
+      "Poeetilise õiglusega lõppev lõpplahendus"
     ]
   },
 
   {
     name: "Romantiline Komöödia",
-    description:
-      "Kerged ja südamlikud armastuslood, kus kaks inimest peavad ületama takistusi, et lõpuks kokku saada.",
+    description: "Kerged ja südamlikud armastuslood, kus kaks inimest peavad ületama takistusi, et lõpuks kokku saada.",
     tropes: [
       "Kohtumise hetk ehk 'meet-cute'",
       "Vääritimõistmine, mis hoiab armastajad lahus",
@@ -41,15 +39,14 @@ window.genresDataEt = [
       "Romantiline vihmastseen või tantsuhetk",
       "Rivaal, kes üritab suhet takistada",
       "Spontaanne reisimine või seiklus, mis paari lähendab",
-      "Avalik armastuse tunnistamine rahva ees"
+      "Avalik armastuse kuulutamine rahva ees"
     ]
   },
   {
     name: "Sport",
-    description:
-      "Atleetide või meeskondade võitlused, mis keskenduvad treenimisele, võistlustele ja isiklikule kasvule.",
+    description: "Atleetide või meeskondade võitlused, mis keskenduvad treenimisele, võistlustele ja isiklikule kasvule.",
     tropes: [
-      "Nõrk meeskond, kes kasvab võitjaks",
+      "Nõrk meeskond (underdog), es tõuseb meistriks",
       "Karm treener pehme südamega",
       "Viimase sekundi võiduvise või värav",
       "Vigastusest taastumine enne suurt mängu",
@@ -58,13 +55,12 @@ window.genresDataEt = [
       "Meeskonnasisesed pinged ja leppimine",
       "Veteranmängija viimane võistlus",
       "Treeningmontaaž muusika saatel",
-      "Ootamatu talent maapiirkonnast"
+      "Ootamatu talent maapiirkonnast" 
     ]
   },
   {
     name: "Sõjafilm",
-    description:
-      "Sõjaolukordade realistlik kujutamine, mis uurib konflikti mõju inimestele ja ühiskonnale.",
+    description: "Sõjaolukordade realistlik kujutamine, mis uurib konflikti mõju inimestele ja ühiskonnale.",
     tropes: [
       "Noored sõdurid jätavad lahinguväljal hüvasti lapsepõlvega",
       "Kirjad koju armastatutele",
@@ -80,8 +76,7 @@ window.genresDataEt = [
   },
   {
     name: "Mockumentaal",
-    description:
-      "Dokumentaalfilmi vormi paroodia, kasutades intervjuusid ja lavastatud olukordi, et luua humoorikat või absurdset sisu.",
+    description: "Dokumentaalfilmi vormi paroodia, kasutades intervjuusid ja lavastatud olukordi, et luua humoorikat või absurdset sisu.",
     tropes: [
       "Piinlikud intervjuud kaameraga",
       "Ebaadekvaatne 'ekspert' jagamas arvamusi",
@@ -107,8 +102,7 @@ window.genresDataEt = [
   },
   {
     name: "Võitluskunstid (Kung Fu)",
-    description:
-      "Idamaiste võitluskunstide ümber põimuvad lood, mis rõhutavad treeningut, distsipliini, filosoofiat ja dramaatilisi võitlusstseene.",
+    description: "Idamaiste võitluskunstide ümber põimuvad lood, mis rõhutavad treeningut, distsipliini, filosoofiat ja dramaatilisi võitlusstseene.",
     tropes: [
       "Vana meister õpetab saladuslikku tehnikat",
       "Kättemaks õe/venna/õpetaja surma eest",
@@ -135,8 +129,7 @@ window.genresDataEt = [
 
   {
     name: "Ajalooline Draama",
-    description:
-      "Minevikusündmuste dramatiseering, mis püüab täpselt kujutada kindlat ajastut ja selle inimesi.",
+    description: "Minevikusündmuste dramatiseering, mis püüab täpselt kujutada kindlat ajastut ja selle inimesi.",
     tropes: [
       "Ajastu kostüümid ja kombed detailideni",
       "Tähtis ajalooline sündmus isikliku loo taustal",
@@ -152,8 +145,7 @@ window.genresDataEt = [
   },
   {
     name: "Pere- ja Lastefilm",
-    description:
-      "Kõigile vanusegruppidele sobivad lood, mis edastavad positiivseid väärtusi ja õppetunde.",
+    description: "Kõigile vanusegruppidele sobivad lood, mis edastavad positiivseid väärtusi ja õppetunde.",
     tropes: [
       "Koer või muu lemmikloom kui peategelane",
       "Perekondlik konflikt, mis laheneb armastusega",
@@ -169,8 +161,7 @@ window.genresDataEt = [
   },
   {
     name: "Üleloomulik",
-    description:
-      "Lood vaimudest, vampiiridest ja muudest mütoloogilistest olenditest, keskendudes nende suhetele inimestega.",
+    description: "Lood vaimudest, vampiiridest ja muudest mütoloogilistest olenditest, keskendudes nende suhetele inimestega.",
     tropes: [
       "Teismeline avastab endas üleloomulikud võimed",
       "Salajane üleloomulike olendite ühiskond",
@@ -185,9 +176,8 @@ window.genresDataEt = [
     ]
   },
   {
-    name: "Täiskasvanuks Saamine",
-    description:
-      "Noorte inimeste kasvamine ja areng läbi oluliste elukogemuste ja avastuste.",
+    name: "Täiskasvanuks Saamine (coming of age)",
+    description: "Noorte inimeste kasvamine ja areng läbi oluliste elukogemuste ja avastuste.",
     tropes: [
       "Esimene tõeline armastus ja südamevalu",
       "Sõpruse proovilepanek kriisihetkel",
@@ -203,8 +193,7 @@ window.genresDataEt = [
   },
   {
     name: "Kohtudraamad",
-    description:
-      "Õigussüsteemi keerukused läbi advokaatide, kohtunike ja vandemeeste silmade.",
+    description: "Õigussüsteemi keerukused läbi advokaatide, kohtunike ja vandemeeste silmade.",
     tropes: [
       "Noor advokaat võtab võimatu juhtumi",
       "Üllatav tunnistaja viimasel hetkel",
@@ -220,8 +209,7 @@ window.genresDataEt = [
   },
   {
     name: "Meditsiinidraamad",
-    description:
-      "Arstide, õdede ja patsientide lood haigla pingelises keskkonnas.",
+    description: "Arstide, õdede ja patsientide lood haigla pingelises keskkonnas.",
     tropes: [
       "Haruldane haigus vajab kiiret diagnoosi",
       "Romanss haiglapersonali vahel",
@@ -236,8 +224,7 @@ window.genresDataEt = [
   },
   {
     name: "Post-Apokalüptiline",
-    description:
-      "Lood ellujäämisest maailmas, mis on läbi elanud katastroofi (pandeemia, tuumasõja, keskkonnahävingu).",
+    description: "Lood ellujäämisest maailmas, mis on läbi elanud katastroofi (pandeemia, tuumasõja, keskkonnahävingu).",
     tropes: [
       "Väike grupp ellujääjaid otsib varjupaika",
       "Ressursside jaotamise konfliktid",
@@ -253,8 +240,7 @@ window.genresDataEt = [
   },
   {
     name: "Psühholoogiline Põnevik",
-    description:
-      "Vaimsed manipulatsioonid ja psühholoogiline terror, kus peategelane kahtleb enda või teiste reaalsustajus.",
+    description: "Vaimsed manipulatsioonid ja psühholoogiline terror, kus peategelane kahtleb enda või teiste reaalsustajus.",
     tropes: [
       "Ebausaldusväärne jutustaja",
       "Reaalsuse ja kujutluse piiride hägustumine",
@@ -270,8 +256,7 @@ window.genresDataEt = [
   },
   {
     name: "Märul",
-    description:
-      "Kõrge oktaanisisaldusega lood, mis keskenduvad füüsilistele trikkidele, kaklustele ja pingelistele olukordadele.",
+    description: "Kõrge oktaanisisaldusega lood, mis keskenduvad füüsilistele trikkidele, kaklustele ja pingelistele olukordadele.",
     tropes: [
       "Kangelase lõplik vastasseis peapahalasega",
       "Autode tagaajamised ja hullumeelsed trikid",
@@ -285,8 +270,7 @@ window.genresDataEt = [
   },
   {
     name: "Seiklus",
-    description:
-      "Ülesandekesksed lood, mis toimuvad eksootilistes paikades ning keskenduvad avastamisele ja seiklustele.",
+    description: "Ülesandekesksed lood, mis toimuvad eksootilistes paikades ning keskenduvad avastamisele ja seiklustele.",
     tropes: [
       "Aardekaardid ja peidetud muistised",
       "Eriilmeline rühm liitlasi",
@@ -302,8 +286,7 @@ window.genresDataEt = [
   },
   {
     name: "Komöödia",
-    description:
-      "Lustakad lood, mis püüavad vaatajat naerma ajada, keskendudes sageli arusaamatustele ja koomilisele ajastusele.",
+    description: "Lustakad lood, mis püüavad vaatajat naerma ajada, keskendudes sageli arusaamatustele ja koomilisele ajastusele.",
     tropes: [
       "Tegelane „kala veest väljas” olukorras",
       "Füüsiline huumor ja kukkumised",
@@ -319,8 +302,7 @@ window.genresDataEt = [
   },
   {
     name: "Dokumentaal",
-    description:
-      "Faktipõhised teosed, mis kasutavad ehtsat kaameramaterjali, intervjuusid ja uuringuid, et jagada teavet või harida.",
+    description: "Faktipõhised teosed, mis kasutavad ehtsat kaameramaterjali, intervjuusid ja uuringuid, et jagada teavet või harida.",
     tropes: [
       "Pealelugemine koos arhiivikaadritega",
       "Ekspertide intervjuud kaamerasse",
@@ -336,8 +318,7 @@ window.genresDataEt = [
   },
   {
     name: "Draama",
-    description:
-      "Tõsised lood, kus keskpunktis on realistlikud konfliktid ja tegelaste emotsionaalne areng.",
+    description: "Tõsised lood, kus keskpunktis on realistlikud konfliktid ja tegelaste emotsionaalne areng.",
     tropes: [
       "Tegelaskaar, mis lahendab moraalseid dilemmasid",
       "Perekonna- või suhtekonfliktid",
@@ -353,8 +334,7 @@ window.genresDataEt = [
   },
   {
     name: "Eksperimentaalteater",
-    description:
-      "Avangardsed lavastused, mis rikuvad traditsioonilisi konventsioone ning kaasavad tihti publikut või kasutavad mittelineaarset vormi.",
+    description: "Avangardsed lavastused, mis rikuvad traditsioonilisi konventsioone ning kaasavad tihti publikut või kasutavad mittelineaarset vormi.",
     tropes: [
       "Neljanda seina lõhkumine",
       "Mittelineaarsed, absurdsed jutustused",
@@ -370,8 +350,7 @@ window.genresDataEt = [
   },
   {
     name: "Fantaasia",
-    description:
-      "Lood, kus esinevad võlujõud, müstilised olendid ja väljamõeldud maailmad, tihti keskaegse hõnguga.",
+    description: "Lood, kus esinevad võlujõud, müstilised olendid ja väljamõeldud maailmad, tihti keskaegse hõnguga.",
     tropes: [
       "Prohvetlik ennustus, mis määrab väljavalitud kangelase",
       "Retk, et hävitada iidne kurjus",
@@ -387,8 +366,7 @@ window.genresDataEt = [
   },
   {
     name: "Õudus",
-    description:
-      "Filmid, mis on loodud hirmutama või häirima, esitades ohte alates koletistest kuni üleloomulikeni või inimlikult moonutatuteni.",
+    description: "Filmid, mis on loodud hirmutama või häirima, esitades ohte alates koletistest kuni üleloomulikeni või inimlikult moonutatuteni.",
     tropes: [
       "Kummitavad majad varitsevate vaimudega",
       "Ehmatavad hüpped stseenides pimedas",
@@ -403,8 +381,7 @@ window.genresDataEt = [
   },
   {
     name: "Müsteerium",
-    description:
-      "Kuriteomüsteeriumid, kus detektiiv uurib kahtlusaluseid ja vihjeid, et paljastada süüdlane.",
+    description: "Kuriteomüsteeriumid, kus detektiiv uurib kahtlusaluseid ja vihjeid, et paljastada süüdlane.",
     tropes: [
       "Eksentriline detektiiv omapäraste kiiksudega",
       "Punased heeringad, et vaatajat eksiteele viia",
@@ -420,8 +397,7 @@ window.genresDataEt = [
   },
   {
     name: "Muusikal",
-    description:
-      "Lood, kus tegelased väljendavad end laulude ja tantsuga, mis on osa süžeest ja emotsioonide avaldusest.",
+    description: "Lood, kus tegelased väljendavad end laulude ja tantsuga, mis on osa süžeest ja emotsioonide avaldusest.",
     tropes: [
       "Suurejooneline avapala kogu trupiga",
       "Romantiline duett või armastusballaad",
@@ -437,8 +413,7 @@ window.genresDataEt = [
   },
   {
     name: "Politseiprotseduur",
-    description:
-      "Keskendub metoodilisele politseitööle – tõendite kogumisele, kohtumeditsiinile, ülekuulamistele ja protokollireeglitele.",
+    description: "Keskendub metoodilisele politseitööle – tõendite kogumisele, kohtumeditsiinile, ülekuulamistele ja protokollireeglitele.",
     tropes: [
       "Iga nädala uus juhtum",
       "Pingeline ülekuulamisruumi draama",
@@ -454,8 +429,7 @@ window.genresDataEt = [
   },
   {
     name: "Tõsielu TV",
-    description:
-      "Skriptimata saated, kus pärisinimesi pannakse lavastatud olukordadesse või võistlustesse, et tekitada draamat.",
+    description: "Skriptimata saated, kus pärisinimesi pannakse lavastatud olukordadesse või võistlustesse, et tekitada draamat.",
     tropes: [
       "Osalejate ülestunnistuslikud intervjuud",
       "Produtsentide manipuleeritud süžeeliinid",
@@ -471,8 +445,7 @@ window.genresDataEt = [
   },
   {
     name: "Ulme",
-    description:
-      "Spekulatiivsed lood tulevikutehnoloogiatest, kosmosereisidest, tulnukatest või arenenud teaduse mõjust ühiskonnale.",
+    description: "Spekulatiivsed lood tulevikutehnoloogiatest, kosmosereisidest, tulnukatest või arenenud teaduse mõjust ühiskonnale.",
     tropes: [
       "Planeetidevaheline reisimine või asustamine",
       "Tehisintellekt saavutab teadvuse (robotite ülestõus)",
@@ -488,8 +461,7 @@ window.genresDataEt = [
   },
   {
     name: "Seebiooper",
-    description:
-      "Seriaal, mis rõhutab romantikat, perekondlikke tülisid ja sensatsioonilisi pöördeid, sageli pika eetriajaga.",
+    description: "Seriaal, mis rõhutab romantikat, perekondlikke tülisid ja sensatsioonilisi pöördeid, sageli pika eetriajaga.",
     tropes: [
       "Lõputud armukolmnurgad",
       "Ülestõusnud surnute paljastused",
@@ -513,11 +485,9 @@ window.genresDataEt = [
       "Melodramaatilised väljumised koos muusikalise rõhutusega"
     ]
   },
-
   {
     name: "Põnevik",
-    description:
-      "Pingelised lood, mis põhinevad ohul, kõrgetel panustel ja ootamatutel pööretel, tihti tiksuva kella vastu võideldes.",
+    description: "Pingelised lood, mis põhinevad ohul, kõrgetel panustel ja ootamatutel pööretel, tihti tiksuva kella vastu võideldes.",
     tropes: [
       "Vandenõu paljastamine tükikaupa",
       "Tavaline inimene ebatavalises ohusituatsioonis",
@@ -533,8 +503,7 @@ window.genresDataEt = [
   },
   {
     name: "Tragöödia",
-    description:
-      "Tõsine lugu, milles ülla taustaga peategelane langeb saatusliku vea või vältimatu saatuse tõttu.",
+    description: "Tõsine lugu, milles ülla taustaga peategelane langeb saatusliku vea või vältimatu saatuse tõttu.",
     tropes: [
       "Kangelane, kellel on surmav iseloomujoon",
       "Paratamatu allakäik või traagiline ettekuulutus",
@@ -550,8 +519,7 @@ window.genresDataEt = [
   },
   {
     name: "Vestern",
-    description:
-      "Ameerika Metsiku Lääne olustikku asetatud lood, kus kohtame kauboisid, lindpriisid ja karmi kõnnumaad.",
+    description: "Ameerika Metsiku Lääne olustikku asetatud lood, kus kohtame kauboisid, lindpriisid ja karmi kõnnumaad.",
     tropes: [
       "Keskpäevane duell tolmusel peatänaval",
       "Seadusesilma ja lindprii vastasseis",
@@ -567,8 +535,7 @@ window.genresDataEt = [
   },
   {
     name: "Kevade",
-    description:
-      "Armastatud Eesti noorsooklassika, mis toimub maalähedases koolis, keskendudes sõprusele ja vempudele.",
+    description: "Armastatud Eesti noorsooklassika, mis toimub maalähedases koolis, keskendudes sõprusele ja vempudele.",
     tropes: [
       "Maakooli ulakused",
       "Tihe teismeliste sõprusring",
@@ -584,8 +551,7 @@ window.genresDataEt = [
   },
   {
     name: "Viimne reliikvia",
-    description:
-      "Seikluslik ajalooline lugu romantikast, lindpriidest ja reliikviast, mis sütitab mässu.",
+    description: "Seikluslik ajalooline lugu romantikast, lindpriidest ja reliikviast, mis sütitab mässu.",
     tropes: [
       "Mässumeelne kangelane ratsu seljas",
       "Muusikalised rahvalaululised hümnid",
@@ -601,8 +567,7 @@ window.genresDataEt = [
   },
   {
     name: "Nipernaadi",
-    description:
-      "Romantiline draamakomöödia, mis jälgib sarmikat rändajat, kes külvab Eesti peal ringi liikudes segadust ja illusioone.",
+    description: "Romantiline draamakomöödia, mis jälgib sarmikat rändajat, kes külvab Eesti peal ringi liikudes segadust ja illusioone.",
     tropes: [
       "Vabameelne petis-peategelane",
       "Episoodilised seiklused väikelinnades",
@@ -618,8 +583,7 @@ window.genresDataEt = [
   },
   {
     name: "Eesti sõjafilm",
-    description:
-      "Patriootlik sõjadraama Eesti Vabadussõjast, kus kooliõpilased asuvad rindele Eesti iseseisvuse nimel.",
+    description: "Patriootlik sõjadraama Eesti Vabadussõjast, kus kooliõpilased asuvad rindele Eesti iseseisvuse nimel.",
     tropes: [
       "Idealistlik noorus astub vabatahtlikult sõtta",
       "Vennad satuvad vastasleeridesse",
@@ -635,8 +599,7 @@ window.genresDataEt = [
   },
   {
     name: "Tõde ja õigus",
-    description:
-      "Mahukas ajalooline eepos talumehest, kelle kinnisideeline võitlus maa ja naabri vastu sümboliseerib inimlikku kangust.",
+    description: "Mahukas ajalooline eepos talumehest, kelle kinnisideeline võitlus maa ja naabri vastu sümboliseerib inimlikku kangust.",
     tropes: [
       "Naabrite karm konflikt karmides oludes",
       "Mehe raudne usk enda õigusesse vaatamata raskustele",
@@ -652,14 +615,15 @@ window.genresDataEt = [
   },
   {
     name: "Õnne 13",
-    description:
-      "Eesti pikaealisim telesari, mis jälgib argielu ja suhteid Morna-nimelises väikelinnas.",
+    description: "Eesti pikaealisim telesari, mis jälgib argielu ja suhteid Morna-nimelises väikelinnas.",
     tropes: [
       "Läbi põlvkondade kulgev seebiseriaali vorm",
       "Naabrite pisikonfliktid ja kõmulised kuulujutud",
       "Iganädalased perekonna- või romantikaliinid",
       "Väikelinna turvaline ja kodune õhkkond",
       "Aastakümneid kestev järjepidevus",
+	  "Mitte midagi ei toimu",
+	  "Kohtutakse aia ääres või kohvikus",
       "Hooajalised sündmused ja peod, mis raamivad lugusid",
       "Vana vaenu taastärkamine ja hiljem leppimine",
       "Vanemate tegelaste elutarkuse edasiandmine noortele",
@@ -670,8 +634,7 @@ window.genresDataEt = [
 
   {
     name: "Anime",
-    description:
-      "Jaapani animatsioonist inspireeritud lood, mis kombineerivad ülevõimendatud emotsioone, stiliseeritud võitlusi ja sageli üleloomulikke elemente.",
+    description: "Jaapani animatsioonist inspireeritud lood, mis kombineerivad ülevõimendatud emotsioone, stiliseeritud võitlusi ja sageli üleloomulikke elemente.",
     tropes: [
       "Võimete või jõudude järkjärguline kasvamine treeningu kaudu",
       "Ülivõimas peategelane, kes võitleb sõpruse nimel",
@@ -687,8 +650,7 @@ window.genresDataEt = [
   },
   {
     name: "Rööv",
-    description:
-      "Lood, mis keskenduvad keerukatele vargustele või pettustele, rõhutades üksikasjalikku planeerimist, meeskonnatööd ja nutikaid skeeme.",
+    description: "Lood, mis keskenduvad keerukatele vargustele või pettustele, rõhutades üksikasjalikku planeerimist, meeskonnatööd ja nutikaid skeeme.",
     tropes: [
       "Täiuslik plaan, mis vajab üht viimast operatsiooni",
       "Spetsialistide meeskonna kokkupanek, igaühel unikaalsed oskused",
@@ -704,8 +666,7 @@ window.genresDataEt = [
   },
   {
     name: "Küberpunk",
-    description:
-      "Tumedad tulevikumaailma lood, mis uurivad kõrgtehnoloogia mõju ühiskonnale, kujutades korporatiivset ülemvõimu, kübermodifikatsioone ja urbanistlikku allakäiku.",
+    description: "Tumedad tulevikumaailma lood, mis uurivad kõrgtehnoloogia mõju ühiskonnale, kujutades korporatiivset ülemvõimu, kübermodifikatsioone ja urbanistlikku allakäiku.",
     tropes: [
       "Megakorporatsioonid kontrollivad ühiskonda",
       "Inimeste täiustamine ja küberneetilised modifikatsioonid",
@@ -721,8 +682,7 @@ window.genresDataEt = [
   },
   {
     name: "Kosmoseuuringud",
-    description:
-      "Teaduslikult põhjendatud lood kosmosereisidest, avastustest ja tundmatu avastamise väljakutsetest, sageli koos detailsete tehniliste aspektidega.",
+    description: "Teaduslikult põhjendatud lood kosmosereisidest, avastustest ja tundmatu avastamise väljakutsetest, sageli koos detailsete tehniliste aspektidega.",
     tropes: [
       "Esimese kontakti protokollid ja suhtlusprobleemid",
       "Laeva rikked sügavas kosmoses",
@@ -739,8 +699,7 @@ window.genresDataEt = [
 
   {
     name: "Situatsioonikomöödia",
-    description:
-      "Füüsiline komöödia, mis tugineb liialdatud liigutustele, kukkumistele ja visuaalsetele naljadele.",
+    description: "Füüsiline komöödia, mis tugineb liialdatud liigutustele, kukkumistele ja visuaalsetele naljadele.",
     tropes: [
       "Keerukad õnnetuste ahelreaktsioonid",
       "Valesti tuvastamine viib füüsilise komöödiani",
@@ -756,8 +715,7 @@ window.genresDataEt = [
   },
   {
     name: "Kulinaaria",
-    description:
-      "Saated, mis keskenduvad toiduvalmistamisele, võistlustele ja professionaalsete köökide draamale.",
+    description: "Saated, mis keskenduvad toiduvalmistamisele, võistlustele ja professionaalsete köökide draamale.",
     tropes: [
       "Kõrge pinge all toimuv kokandusvõistlus ajalimiidiga",
       "Koka isiklik teekond ja ohverdused",
@@ -773,8 +731,7 @@ window.genresDataEt = [
   },
   {
     name: "Spioonifilm",
-    description:
-      "Lood inimestest, kes peavad organisatsioonidesse infiltreeruma võltsidentiteetide abil, sageli proovile pannes nende lojaalsuse ja identiteedi.",
+    description: "Lood inimestest, kes peavad organisatsioonidesse infiltreeruma võltsidentiteetide abil, sageli proovile pannes nende lojaalsuse ja identiteedi.",
     tropes: [
       "Agendi kattevari on paljastumise äärel",
       "Sihtmärkidega tekivad tõelised sõprussuhted",
@@ -790,8 +747,7 @@ window.genresDataEt = [
   },
   {
     name: "Zombid",
-    description:
-      "Ellujäämislood surnust ülestõusnute poolt vallutatud maailmas, sageli uurides inimese olemust kriisiolukorras.",
+    description: "Ellujäämislood surnust ülestõusnute poolt vallutatud maailmas, sageli uurides inimese olemust kriisiolukorras.",
     tropes: [
       "Viiruse või nakkuse päritolulugu",
       "Turvaline varjupaik osutub kompromiteerituks",
@@ -807,8 +763,7 @@ window.genresDataEt = [
   },
   {
     name: "Gangsterid",
-    description:
-      "Organiseeritud kuritegevuse kroonikad, mis keskenduvad võimusuhetele, peresidemetele ja kuritegeliku ambitsioonikuse hinnale.",
+    description: "Organiseeritud kuritegevuse kroonikad, mis keskenduvad võimusuhetele, peresidemetele ja kuritegeliku ambitsioonikuse hinnale.",
     tropes: [
       "Tõus tänavalurjusest kuritegeliku impeeriumi juhiks",
       "Perefirma versus organiseeritud kuritegevus",
@@ -824,8 +779,7 @@ window.genresDataEt = [
   },
   {
     name: "Utoopia",
-    description:
-      "Lood näiliselt täiuslikes ühiskondades, mis sageli varjavad tumedamat reaalsust oma ideaalse pealispinna all.",
+    description: "Lood näiliselt täiuslikes ühiskondades, mis sageli varjavad tumedamat reaalsust oma ideaalse pealispinna all.",
     tropes: [
       "Täiuslik ühiskond varjab tumedat saladust",
       "Ranged reeglid säilitavad sotsiaalset harmooniat",
@@ -841,8 +795,7 @@ window.genresDataEt = [
   },
   {
     name: "Düstoopia",
-    description:
-      "Lood rõhuvas tulevikuühiskonnas, mis uurivad kontrolli, vastupanu ja inimväärikuse teemasid.",
+    description: "Lood rõhuvas tulevikuühiskonnas, mis uurivad kontrolli, vastupanu ja inimväärikuse teemasid.",
     tropes: [
       "Autoritaarne valitsus kontrollib informatsiooni",
       "Vastupanuliikumine värbab peategelase",
@@ -858,8 +811,7 @@ window.genresDataEt = [
   },
   {
     name: "Kosmoseooper",
-    description:
-      "Eepilised ulmeseiklused kosmoses, mis sisaldavad tähtedevahelist konflikti, arenenud tehnoloogiat ja kangelaslikke tegelasi.",
+    description: "Eepilised ulmeseiklused kosmoses, mis sisaldavad tähtedevahelist konflikti, arenenud tehnoloogiat ja kangelaslikke tegelasi.",
     tropes: [
       "Iidsed kosmosetsivilisatsioonid ja artefaktid",
       "Kangelase teekond läbi galaktika",
@@ -873,8 +825,7 @@ window.genresDataEt = [
   },
   {
     name: "Paaris politseinikud",
-    description:
-      "Politseilood, mis keskenduvad kahele sobimatule partnerile, kes peavad ületama oma erinevused kuritegude lahendamiseks.",
+    description: "Politseilood, mis keskenduvad kahele sobimatule partnerile, kes peavad ületama oma erinevused kuritegude lahendamiseks.",
     tropes: [
       "Vastandlike isiksustega partnerid",
       "Üks järgib reegleid, teine eirab neid",
@@ -890,8 +841,7 @@ window.genresDataEt = [
   },
   {
     name: "Wes Anderson",
-    description:
-      "Täpselt sümmeetrilised, detailideni komponeeritud stseenid, kus emotsioonitu esitus, täpsed liigutused ja veidrad peresuhted toimuvad stiliseeritud keskkonnas.",
+    description: "Täpselt sümmeetrilised, detailideni komponeeritud stseenid, kus emotsioonitu esitus, täpsed liigutused ja veidrad peresuhted toimuvad stiliseeritud keskkonnas.",
     tropes: [
       "Emotsioonitu esitus tugevalt emotsionaalsete repliikide puhul ('Mu isa suri traagiliselt' öeldud täiesti tuimalt)",
       "Tegelased tutvustavad end otse publikule koos detailsete elulugudega",
@@ -907,8 +857,7 @@ window.genresDataEt = [
   },
   {
     name: "Tummfilm",
-    description:
-      "Liialdatud füüsilised esitused ilma dialoogita, sisaldades melodramaatilisi žeste ja füüsilist komöödiat koos tiitrite kirjeldustega.",
+    description: "Liialdatud füüsilised esitused ilma dialoogita, sisaldades melodramaatilisi žeste ja füüsilist komöödiat koos tiitrite kirjeldustega.",
     tropes: [
       "Liialdatud näoreaktsioonid koos tardunud kaadritega",
       "Kurjam keerutab vuntse ja sepitseb nähtavalt",
@@ -924,8 +873,7 @@ window.genresDataEt = [
   },
   {
     name: "Bollywood",
-    description:
-      "Energilised esitused koos ootamatute muusikanumbritega, keeruka grupikoreograafiaga ja melodramaatiliste peresuhetega.",
+    description: "Energilised esitused koos ootamatute muusikanumbritega, keeruka grupikoreograafiaga ja melodramaatiliste peresuhetega.",
     tropes: [
       "Spontaansed grupitantsud ebatavalistes kohtades",
       "Armastus esimesest silmapilgust koos tuulemasina efektidega",
